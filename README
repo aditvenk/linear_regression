@@ -1,0 +1,1 @@
+This is a python notebook to implement (and learn) linear regression for >=1 features. I hope to learn concepts such as selecting the ideal learning rate, different cost functions etc. using this notebook as a scratch-pad. All of this code is found (in a better shape) elsewhere - for example: http://aimotion.blogspot.com/2011/10/machine-learning-with-python-linear.html
